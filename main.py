@@ -178,4 +178,8 @@ def main():
     asyncio.run(main_async(args))
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 2b517ada8512f9f43e9f19572d009c5ded8dbd61
